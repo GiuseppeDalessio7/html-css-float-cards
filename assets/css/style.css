@@ -8,7 +8,7 @@ body{font-family: 'Fredoka', sans-serif;}
 /* colori */
 :root{
     --bol-title:#e53170;
-    --bol-blue: #0093e7;
+    --bol-blue: #63c9f2;
 }
 
 h1{
@@ -65,10 +65,13 @@ h1{
     color: white;
     padding-left: 1rem;}
 
-.email{color: var(--bol-blue);}
+.email{color: var(--bol-blue);
+        display: inline-block;
+        margin-top: 5px;
+        padding-left: 1rem;}
 
-h5, .work , .email{
-    padding-bottom: 1rem;
+h5, .work{
+    margin-top: 12px;
     padding-left: 1rem;
     
 }
