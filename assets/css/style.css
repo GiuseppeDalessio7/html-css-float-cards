@@ -1,0 +1,20 @@
+*{padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{font-family: 'Fredoka', sans-serif;}
+
+/* colori */
+:root{
+    --bol-title:#e53170;
+    --bol-blue: #0093e7;
+}
+
+h1{color: var(--bol-title);
+text-align: center;}
+
+.headertitle{width: 1170px;
+            height: 80%;
+            margin: auto;
+            margin-top: 1rem;}
