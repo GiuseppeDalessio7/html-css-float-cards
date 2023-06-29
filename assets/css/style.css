@@ -18,3 +18,11 @@ text-align: center;}
             height: 80%;
             margin: auto;
             margin-top: 1rem;}
+
+.main-header{width: 1170px;
+    height: 80%;
+    margin: auto;
+    padding-top: 2rem;}
+
+.main-header > p {font-weight:lighter;
+                    text-align: center;}
